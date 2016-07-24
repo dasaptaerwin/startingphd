@@ -1,0 +1,72 @@
+---
+title: "IceMal_topic modeling"
+author: "Dasapta Erwin Irawan and Cut Novianti Rachmi,"
+date: "July 24, 2016"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Abstract
+
+
+# Introduction
+
+
+# Methods
+
+1. Survey
+2. Literature search
+3. Text mining
+4. Visualization
+5. Topic formulation
+
+# Results and discussions
+
+
+## Current workflow
+
+Writing a research proposal is one of the most important phase in a PhD life. He/she must come up with an exhibit of an originality. They should have looked at the landscape of research in their specific field of study to look for a small empty `hole` of subject that no one or less people have never looked at. And how do they do that? 
+
+After a conducting a small research with 15 subject of PhD student here in ITB (questionairre is listed below), their most common workflow would be:
+
+1. asking their professor and peers on what topic should they take. The biggest issue is subjectivity. One professor or two can not cover the entire research domains. The same situation is given by asking peers. Their perspective is blocked by they own opinion on a given subject. Hence, aside to the close interactions between students, supervisors, and peers,  a student still can not come up with a solid research topic. 
+2. they read major text books in their field. Do you know how long is the gap of knowledge sharing in text books. For old books, a rough estimate is between 20 to 30 years of gap. For new books, especially ones that only come in digital form, have a shorter gap of 5-10 years. It is because a text book is a representation of cummulative experience of the author. The more experience the author, the more he/she has confident to publish the book. Although it is not a false technique, but a long knowledge gap could be a problem.  
+3. go to Google or Google Scholar using random key terms. Most students will use a very general key term to search for an `empty hole`. This technique will give a huge chunk of results, hundreds or might be thousands of documents. Here's our own experiment. Suppose a student is working on hydrogeology, so he/she might use the word `hydrogeology` in his/her key term on search engine. We used  the same key term to several search engine and scientific databases.
+
+    - `hydrogeology` on Google          = aaa results
+    - `hydrogeology` on Google Scholar  = bbb results
+    - `hydrogeology` on Scopus          = bbb results
+    - `hydrogeology` on Web of Science  = bbb results
+    - `hydrogeology` on Sciencedirect   = bbb results
+    
+## Proposed workflow
+
+
+# References
+
+# Attachment (questionairre)
+
+The following is a supplementary material in form of a questionairre. We used Google Form and disseminate the link on Facebook. Fifteen students gave their responses. These individuals will be automatically admitted to a sharring session in `Open science`.
+
+1. Is research topic already provided by your supervisor? (if the answer is no proceed to #2, if yes to Questionairre set 2)
+    - yes
+    - no
+2. How would you search for your topic?
+    - online
+    - ask supervisor for more clues
+    - ask peer students
+3. Did you find the method was a success?
+    - yes
+    - no
+    - provide a short explanation: ....
+4. After analysing the situation, which method should you have taken?
+    - online
+    - ask supervisor for more clues
+    - ask peer students
+5. Do you think there is a better way to formulate a research topic?
+    - yes
+    - no
+
